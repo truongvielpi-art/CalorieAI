@@ -1,0 +1,7 @@
+{
+  "name": "CalorieAI",
+  "description": "A smart nutrition tracking application using AI to analyze food from photos, track calories, and monitor macro-nutrients.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
